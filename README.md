@@ -1,2 +1,4 @@
 # CoffeeBot
-Trying to make a simple Chat-bot
+***
+## What this is :
+
